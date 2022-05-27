@@ -59,7 +59,6 @@ export function WidgetForm() {
               onFeedbackSent={() => setFeedbackSent(true)}
             />
           )}
-          ƒ
         </>
       )}
 
